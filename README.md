@@ -4,44 +4,45 @@
 **GooglePlay** : <https://play.google.com/store/apps/details?id=com.starnyacs.monstersweeper>
 
 ---
-###¡Windows
+###â– Windows
 
-[ŠÂ‹«]  
+[ç’°å¢ƒ]  
 Visual Studio 2013
 
-[Àsè‡]  
-VisualStudio‚Åwproj.win32/monster-sweeper.slnx‚ğ‹N“®  
-monster-sweeperƒvƒƒWƒFƒNƒg‚ğÀs
+[å®Ÿè¡Œæ‰‹é †]  
+VisualStudioã§ã€proj.win32/monster-sweeper.slnã€ã‚’èµ·å‹•  
+monster-sweeperãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’å®Ÿè¡Œ
 
 ---
-###¡iOS
+###â– iOS
 
-[ŠÂ‹«]  
+[ç’°å¢ƒ]  
 XCode 7.0.1  
 
-[Àsè‡]  
-XCode‚Åwproj.ios_mac/monster-sweeper.xcodeprojx‚ğ‹N“®  
-TARGET‚ğwmonster-sweeper iOSx‚É•ÏX  
-Simulator‚ğ‘I‘ğ‚µ‚ÄÀs
+[å®Ÿè¡Œæ‰‹é †]  
+XCodeã§ã€proj.ios_mac/monster-sweeper.xcodeprojã€ã‚’èµ·å‹•  
+TARGETã‚’ã€monster-sweeper iOSã€ã«å¤‰æ›´  
+Simulatorã‚’é¸æŠã—ã¦å®Ÿè¡Œ
 
 ---
-###¡Android
+###â– Android
 
-[ŠÂ‹«]  
-Eclipse JUNO 4.2.1(ADT,CDT“±“ü)  
+[ç’°å¢ƒ]  
+Eclipse JUNO 4.2.1(ADT,CDTå°å…¥)  
 Android NDK r9d  
+Python 2.7.10  
 
-[Àsè‡]  
-Eclipse‚ÅˆÈ‰º‚ÌAndroidƒvƒƒWƒFƒNƒg‚ğƒCƒ“ƒ|[ƒg  
- wcocos2d/cocos/platform/android/javax  
- wgoogle-play-services_libx  
- wproj.androidx  
+[å®Ÿè¡Œæ‰‹é †]  
+Eclipseã§ä»¥ä¸‹ã®Androidãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’ã‚¤ãƒ³ãƒãƒ¼ãƒˆ  
+ ã€cocos2d/cocos/platform/android/javaã€  
+ ã€google-play-services_libã€  
+ ã€proj.androidã€  
  
-monster-sweeperƒvƒƒWƒFƒNƒgƒƒjƒ…[‚©‚çA  
-wProject->Properties->C/C++Build->Environmentx‚ÉˆÈ‰º‚Ìİ’è‚ğ’Ç‰Á  
- Name : NDK_ROOT  Value : NDK‚Ö‚ÌƒpƒX  
+monster-sweeperãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆãƒ¡ãƒ‹ãƒ¥ãƒ¼ã‹ã‚‰ã€  
+ã€Project->Properties->C/C++Build->Environmentã€ã«ä»¥ä¸‹ã®è¨­å®šã‚’è¿½åŠ   
+ Name : NDK_ROOT  Value : NDKã¸ã®ãƒ‘ã‚¹  
 
-monster-sweeperƒvƒƒWƒFƒNƒg‚ğÀs
+monster-sweeperãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’å®Ÿè¡Œ
 
 
 [AppStore]: https://itunes.apple.com/tr/app/monsutasuipa/id903936139?mt=8

@@ -38,7 +38,10 @@ bool AppDelegate::applicationDidFinishLaunching()
     }
 	// デザイン解像度を(640x960)に設定する
 	glview->setDesignResolutionSize(640.0f, 960.0f, ResolutionPolicy::SHOW_ALL);
+
+#if CC_TARGET_PLATFORM == CC_PLATFORM_WIN32
 	setResourceRootPath("../Resources");
+#endif
 
     // ディスプレイステータスを表示する
 #if COCOS2D_DEBUG
